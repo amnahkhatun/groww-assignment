@@ -1,0 +1,15 @@
+.main-box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.individual-box {
+  border: 1px black solid;
+  padding: 5%;
+}
+
+.table-div {
+  border: 1px black solid;
+  padding: 2%;
+  margin: 3%;
+}
